@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Operator/Copyfile/bin/Debug/net7.0/Copyfile
+/Users/macos/Desktop/Operator/Copyfile/bin/Debug/net7.0/Copyfile.deps.json
+/Users/macos/Desktop/Operator/Copyfile/bin/Debug/net7.0/Copyfile.runtimeconfig.json
+/Users/macos/Desktop/Operator/Copyfile/bin/Debug/net7.0/Copyfile.dll
+/Users/macos/Desktop/Operator/Copyfile/bin/Debug/net7.0/Copyfile.pdb
+/Users/macos/Desktop/Operator/Copyfile/obj/Debug/net7.0/Copyfile.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Operator/Copyfile/obj/Debug/net7.0/Copyfile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/Operator/Copyfile/obj/Debug/net7.0/Copyfile.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Operator/Copyfile/obj/Debug/net7.0/Copyfile.AssemblyInfo.cs
+/Users/macos/Desktop/Operator/Copyfile/obj/Debug/net7.0/Copyfile.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Operator/Copyfile/obj/Debug/net7.0/Copyfile.dll
+/Users/macos/Desktop/Operator/Copyfile/obj/Debug/net7.0/refint/Copyfile.dll
+/Users/macos/Desktop/Operator/Copyfile/obj/Debug/net7.0/Copyfile.pdb
+/Users/macos/Desktop/Operator/Copyfile/obj/Debug/net7.0/Copyfile.genruntimeconfig.cache
+/Users/macos/Desktop/Operator/Copyfile/obj/Debug/net7.0/ref/Copyfile.dll
